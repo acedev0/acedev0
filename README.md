@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # ⚡ ACE // `@acedev0`
 
@@ -6,25 +6,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Telegram+%26+MTProto+Automation;Zero-Storage+Media+Streaming+Systems;Python+%26+FastAPI+Engineering;Next.js+%26+Real-Time+Web+Applications;Linux+Automation+%26+Production+Hardening" alt="Ace's engineering focus" />
 
-<p>
-  <em>Python engineer focused on Telegram infrastructure, efficient media delivery, automation, and modern full-stack applications.</em>
-</p>
+<p><em>Developer focused on Telegram infrastructure, efficient media delivery, automation, and modern full-stack applications.</em></p>
 
-<p>
-  <a href="https://github.com/acedev0">
-    <img src="https://img.shields.io/badge/GitHub-acedev0-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://t.me/Aceddev">
-    <img src="https://img.shields.io/badge/Telegram-Contact-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:Acedevmc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<a href="https://github.com/acedev0"><img src="https://img.shields.io/badge/GitHub-acedev0-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://t.me/Aceddev"><img src="https://img.shields.io/badge/Telegram-Contact-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="mailto:Acedevmc@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-![Focus](https://img.shields.io/badge/FOCUS-Performance-58A6FF?style=flat-square)
-![Architecture](https://img.shields.io/badge/ARCHITECTURE-Streaming_%26_Automation-8957E5?style=flat-square)
-![Status](https://img.shields.io/badge/STATUS-Building-238636?style=flat-square)
+<br />
+
+<img src="https://img.shields.io/badge/FOCUS-Performance-58A6FF?style=flat-square" alt="Focus: Performance" />
+<img src="https://img.shields.io/badge/ARCHITECTURE-Streaming_%26_Automation-8957E5?style=flat-square" alt="Architecture: Streaming and Automation" />
+<img src="https://img.shields.io/badge/STATUS-Building-238636?style=flat-square" alt="Status: Building" />
 
 </div>
 
@@ -34,7 +26,7 @@
 
 I'm Ace, an independent developer who enjoys building practical systems that solve demanding technical problems.
 
-My main interests are **Telegram MTProto automation, zero-storage media streaming, production-ready Python services, and real-time web applications.** I care about what happens beyond the happy path: memory usage, concurrency, failure recovery, security boundaries, and how a system behaves under sustained workloads.
+My main interests are **Telegram MTProto automation, zero-storage media streaming, production-oriented Python services, and real-time web applications.** I care about what happens beyond the happy path: memory usage, concurrency, failure recovery, security boundaries, and how a system behaves under sustained workloads.
 
 ```python
 class Ace:
@@ -72,8 +64,6 @@ class Ace:
 
 ## `02` — Featured Projects
 
-Projects focused on automation, media infrastructure, and user-facing applications.
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -90,7 +80,7 @@ Projects focused on automation, media infrastructure, and user-facing applicatio
         <img src="https://img.shields.io/badge/Telethon-2AABEE?style=flat-square&logo=telegram&logoColor=white" alt="Telethon" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       </p>
-      ![Release](https://img.shields.io/badge/Release-v1.1.0-brightgreen?style=flat-square)
+      <a href="https://github.com/acedev0/cinevault/releases"><img src="https://img.shields.io/badge/Release-v1.1.0-brightgreen?style=flat-square" alt="CineVault release v1.1.0" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>📦 <a href="https://github.com/acedev0/AceUnzipBot">AceUnzipBot</a></h3>
@@ -106,7 +96,7 @@ Projects focused on automation, media infrastructure, and user-facing applicatio
         <img src="https://img.shields.io/badge/7--Zip-0078D4?style=flat-square&logo=7zip&logoColor=white" alt="7-Zip" />
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
       </p>
-      ![Release](https://img.shields.io/badge/Release-v2.1.0-blue?style=flat-square)
+      <a href="https://github.com/acedev0/AceUnzipBot/releases"><img src="https://img.shields.io/badge/Release-v2.1.0-blue?style=flat-square" alt="AceUnzipBot release v2.1.0" /></a>
     </td>
   </tr>
   <tr>
@@ -116,7 +106,7 @@ Projects focused on automation, media infrastructure, and user-facing applicatio
       <ul>
         <li>Browser-based video playback.</li>
         <li>Byte-range streaming architecture.</li>
-        <li>WebP thumbnails and Argon2id-related security tooling.</li>
+        <li>WebP thumbnails and security-focused access controls.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -124,7 +114,7 @@ Projects focused on automation, media infrastructure, and user-facing applicatio
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
         <img src="https://img.shields.io/badge/Argon2id-181717?style=flat-square&logo=auth0&logoColor=white" alt="Argon2id" />
       </p>
-      ![Release](https://img.shields.io/badge/Release-v1.0.0-orange?style=flat-square)
+      <a href="https://github.com/acedev0/televault/releases"><img src="https://img.shields.io/badge/Release-v1.0.0-orange?style=flat-square" alt="TeleVault release v1.0.0" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🍿 <a href="https://github.com/acedev0/ace-hub">Ace Hub</a></h3>
@@ -138,9 +128,9 @@ Projects focused on automation, media infrastructure, and user-facing applicatio
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
       </p>
-      ![Status](https://img.shields.io/badge/Status-In_Development-8957E5?style=flat-square)
+      <a href="https://github.com/acedev0/ace-hub"><img src="https://img.shields.io/badge/Status-In_Development-8957E5?style=flat-square" alt="Ace Hub is in development" /></a>
     </td>
   </tr>
 </table>
@@ -153,26 +143,22 @@ Projects focused on automation, media infrastructure, and user-facing applicatio
   <tr>
     <td align="center" width="25%">
       <h3>⚡</h3>
-      <strong>Performance</strong>
-      <br />
+      <strong>Performance</strong><br />
       <sub>Efficient I/O, asynchronous execution, and controlled concurrency.</sub>
     </td>
     <td align="center" width="25%">
       <h3>🧠</h3>
-      <strong>Memory</strong>
-      <br />
+      <strong>Memory</strong><br />
       <sub>Streaming-first workflows and bounded resource usage where practical.</sub>
     </td>
     <td align="center" width="25%">
       <h3>🛡️</h3>
-      <strong>Security</strong>
-      <br />
+      <strong>Security</strong><br />
       <sub>Least privilege, safer defaults, and explicit trust boundaries.</sub>
     </td>
     <td align="center" width="25%">
       <h3>🔧</h3>
-      <strong>Automation</strong>
-      <br />
+      <strong>Automation</strong><br />
       <sub>Repeatable deployments, useful logs, and simpler operations.</sub>
     </td>
   </tr>
@@ -270,12 +256,8 @@ Have an interesting idea involving Telegram automation, backend engineering, str
 
 <div align="center">
 
-<a href="https://t.me/Aceddev">
-  <img src="https://img.shields.io/badge/Message_me_on_Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact Ace on Telegram" />
-</a>
-<a href="mailto:Acedevmc@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ace" />
-</a>
+<a href="https://t.me/Aceddev"><img src="https://img.shields.io/badge/Message_me_on_Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact Ace on Telegram" /></a>
+<a href="mailto:Acedevmc@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ace" /></a>
 
 <br /><br />
 
