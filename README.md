@@ -49,17 +49,17 @@ I spend most of my time on what happens *off* the happy path: memory ceilings, c
     </td>
     <td width="33%" valign="top">
       <h4>🚀 Shipping</h4>
-      Tagged releases of <b>CineVault</b>, <b>TeleVault</b> and <b>AceUnzipBot</b>.
+      Tagged releases of <a href="https://github.com/acedev0/verifix"><b>VeriFix</b></a>, <b>CineVault</b>, <b>TeleVault</b> and <b>AceUnzipBot</b>.
     </td>
     <td width="33%" valign="top">
       <h4>🔭 Exploring</h4>
-      Queues, retries and observability for long-running jobs, and leaner byte-range streaming.
+      SMT formal verification, neurosymbolic repair loops, and leaner byte-range streaming.
     </td>
   </tr>
 </table>
 
 **Ask me about:**
-`Telethon` · `MTProto` · `HTTP range requests` · `async Python concurrency` · `Docker + systemd in production`
+`Telethon` · `MTProto` · `HTTP range requests` · `Z3 SMT verification` · `async Python concurrency` · `Docker + systemd in production`
 
 <br />
 
@@ -78,13 +78,13 @@ I spend most of my time on what happens *off* the happy path: memory ceilings, c
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📦 <a href="https://github.com/acedev0/AceUnzipBot">AceUnzipBot</a></h3>
-      <p><b>Bulk archive extraction inside Telegram.</b></p>
-      <p>Powered by 7-Zip. Jobs run through a FIFO queue with live progress and thumbnails, plus a dedicated CLI and deployment tooling.</p>
-      <p><code>Python</code> <code>Telethon</code> <code>7-Zip</code> <code>Linux</code></p>
+      <h3>🛡️ <a href="https://github.com/acedev0/verifix">VeriFix</a></h3>
+      <p><b>Neurosymbolic code repair: LLM generative patching meets Z3 formal verification.</b></p>
+      <p>Binds generative patch synthesis to a formal CEGIS loop. SMT counterexamples guide prompt self-correction until the patch is mathematically proven sound.</p>
+      <p><code>Python</code> <code>Z3 Solver</code> <code>Formal Methods</code> <code>AST</code></p>
       <p>
-        <a href="https://github.com/acedev0/AceUnzipBot/releases"><img src="https://img.shields.io/github/v/release/acedev0/AceUnzipBot?style=flat-square&amp;label=release&amp;color=3fb950" alt="Latest AceUnzipBot release" /></a>
-        <img src="https://img.shields.io/github/last-commit/acedev0/AceUnzipBot?style=flat-square" alt="AceUnzipBot last commit" />
+        <a href="https://github.com/acedev0/verifix/releases"><img src="https://img.shields.io/github/v/release/acedev0/verifix?style=flat-square&amp;label=release&amp;color=3fb950" alt="Latest VeriFix release" /></a>
+        <img src="https://img.shields.io/github/last-commit/acedev0/verifix?style=flat-square" alt="VeriFix last commit" />
       </p>
     </td>
   </tr>
@@ -100,6 +100,18 @@ I spend most of my time on what happens *off* the happy path: memory ceilings, c
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/acedev0/AceUnzipBot">AceUnzipBot</a></h3>
+      <p><b>Bulk archive extraction inside Telegram.</b></p>
+      <p>Powered by 7-Zip. Jobs run through a FIFO queue with live progress and thumbnails, plus a dedicated CLI and deployment tooling.</p>
+      <p><code>Python</code> <code>Telethon</code> <code>7-Zip</code> <code>Linux</code></p>
+      <p>
+        <a href="https://github.com/acedev0/AceUnzipBot/releases"><img src="https://img.shields.io/github/v/release/acedev0/AceUnzipBot?style=flat-square&amp;label=release&amp;color=3fb950" alt="Latest AceUnzipBot release" /></a>
+        <img src="https://img.shields.io/github/last-commit/acedev0/AceUnzipBot?style=flat-square" alt="AceUnzipBot last commit" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>🍿 <a href="https://github.com/acedev0/ace-hub">Ace Hub</a></h3>
       <p><b>Video discovery and synchronized watch parties.</b></p>
       <p>Real-time playback sync keeps every viewer in lockstep, on a responsive interface backed by a Prisma-managed database.</p>
@@ -188,6 +200,7 @@ Fetch aligned chunks, trim the edges, stream the result. The player never knows 
 | :-- | :-- |
 | **Stream, don't store** | Data flows from source to client. Nothing sits on the server waiting to be cleaned up. |
 | **Bound everything** | Memory, concurrency and queue depth all have explicit ceilings. |
+| **Prove, don't guess** | Neurosymbolic CEGIS: code patches must be mathematically sound before shipping. |
 | **Automate the repetitive** | If I do it twice by hand, it becomes a script, a queue or a service. |
 | **Design for failure** | Retries, cancellation and recovery are part of the first design, not a patch. |
 | **Keep trust boundaries explicit** | Auth, hashing and permissions live at clearly drawn edges. |
@@ -251,12 +264,22 @@ Fetch aligned chunks, trim the edges, stream the result. The player never knows 
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
     </td>
   </tr>
+  <tr>
+    <td><b>Verification &amp; AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Z3_SMT-22C55E?style=flat-square" alt="Z3 SMT Solver" />
+      <img src="https://img.shields.io/badge/Formal_Verification-6366F1?style=flat-square" alt="Formal Verification" />
+      <img src="https://img.shields.io/badge/CEGIS-38BDF8?style=flat-square" alt="CEGIS" />
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&amp;logo=google&amp;logoColor=white" alt="Gemini" />
+    </td>
+  </tr>
 </table>
 
 <br />
 
 ## What I can help with
 
+- **Formal verification & automated repair:** Neurosymbolic CEGIS loops, Z3 SMT constraints, contract enforcement.
 - **Telegram automation:** MTProto clients, bots, bulk-job queues, progress reporting.
 - **Streaming backends:** range-request services that stay flat on memory and disk.
 - **Real-time web apps:** synchronized state, WebSockets, and a clean Next.js front end.
