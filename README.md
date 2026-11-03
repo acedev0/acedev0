@@ -106,7 +106,6 @@ I spend most of my time on what happens *off* the happy path: memory ceilings, c
       <p><code>Next.js</code> <code>React</code> <code>Prisma</code> <code>Socket.IO</code></p>
       <p>
         <img src="https://img.shields.io/badge/status-in_development-8957e5?style=flat-square" alt="Ace Hub is in development" />
-        <img src="https://img.shields.io/github/last-commit/acedev0/ace-hub?style=flat-square" alt="Ace Hub last commit" />
       </p>
     </td>
   </tr>
