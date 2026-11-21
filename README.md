@@ -56,7 +56,7 @@ I spend most of my time on what happens *off* the happy path: memory ceilings, t
     </td>
     <td width="33%" valign="top">
       <h4>🌐 Real-Time Systems</h4>
-      <a href="https://github.com/acedev0/ace-hub"><b>Ace Hub</b></a> and <a href="https://github.com/acedev0/AceUnzipBot"><b>AceUnzipBot</b></a>: Lockstep watch-parties and FIFO MTProto workers.
+      <b>Ace Hub</b> and <a href="https://github.com/acedev0/AceUnzipBot"><b>AceUnzipBot</b></a>: Lockstep watch-parties and FIFO MTProto workers.
     </td>
   </tr>
 </table>
@@ -115,7 +115,7 @@ I spend most of my time on what happens *off* the happy path: memory ceilings, t
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🍿 <a href="https://github.com/acedev0/ace-hub">Ace Hub</a></h3>
+      <h3>🍿 Ace Hub</h3>
       <p><b>Video discovery and synchronized watch parties.</b></p>
       <p>Real-time playback sync keeps every viewer in lockstep, on a responsive modern interface backed by a Prisma-managed database and WebSockets.</p>
       <p><code>Next.js 15</code> <code>React 19</code> <code>Prisma</code> <code>Socket.IO</code> <code>WebSockets</code></p>
